@@ -8,7 +8,7 @@
 
   <h2> 💻 Tech Bolg </h2>
   
-  [![Tistory Badge](https://img.shields.io/badge/Tistory-555263?style=for-the-badge&logoColor=white)]("https://abbiddo.tistory.com/")
+  [![Tistory Badge](https://img.shields.io/badge/Tistory-555263?style=for-the-badge&logoColor=white)](https://abbiddo.tistory.com/)
 
   <br>
     
